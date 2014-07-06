@@ -1,0 +1,9 @@
+{
+  "name":"ircForJesus",
+  "version":"0.0.1",
+  "description":"IRC for JESUS, 'nuff said",
+  "repository": {
+    "type":"git",
+    "url":"git://github.com/jsala1990/ircForJesus.git"
+  }
+}
